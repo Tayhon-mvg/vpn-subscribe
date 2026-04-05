@@ -1,1 +1,12 @@
-
+#profile-title: WolfVPN
+#profile-update-interval: 1
+#support-url: 
+#announce:Подписка истекает: 05.05.2026
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=05.05.2026
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@usa-f2.plugvpn.ru:443?flow=&type=grpc&mode=gun&serviceName=usa-f2.plugvpn.ru&security=none#🇺🇸 WolfVPN | США 💫
+vless://2d3485d4-1096-48fb-970c-861981e76189@144.31.214.19:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=GTq1lpTkdX92uvm5X3DsTpgPDLNMAdZbQi8I7eIGtSU#🇫🇷 WolfVPN | Франция 💫
+vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@193.58.122.190:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=node-2b6a3a.binngo.online&pbk=HQhvCk_YVph7Bd-O6UDB7vuRhJAAQgElADxexlo5vCQ&sid=f0b8ac8c&spx=/#🇩🇪 WolfVPN | Германия 💫
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@tur-z3.duckdns.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tur-z3.duckdns.org&pbk=WeK-Iwzw_uTQemxacLNRRXCi39aGzEMLAimBIzYxPSA&sid=97417a36e3bca3ee#🇹🇷 WolfVPN | Турция 💫
+vless://2d3485d4-1096-48fb-970c-861981e76189@81.90.21.132:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=GTq1lpTkdX92uvm5X3DsTpgPDLNMAdZbQi8I7eIGtSU#🇸🇪 WolfVPN | Швеция 💫
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@fin-a7.duckdns.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fin-a7.duckdns.org&pbk=tLw_uSztV6_F7_a64EDkzoQ7nJjoHrd7YRrjCdvNI2Q&sid=442c582e7850be24#🇫🇮 WolfVPN | Финляндия 💫
+vless://2d3485d4-1096-48fb-970c-861981e76189@147.45.126.69:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=GTq1lpTkdX92uvm5X3DsTpgPDLNMAdZbQi8I7eIGtSU#🇵🇱 WolfVPN | Польша 💫
