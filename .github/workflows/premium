@@ -7,6 +7,4 @@
 #profile-update-interval: 1
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#Snowraze%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://67aa928d-0402-48ea-869a-a72dba3df515@185.143.233.235:443?encryption=none&type=ws&security=tls&path=%2F&host=who.xwho.ir&sni=who.xwho.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#Snowraze%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-vless://2f194e6a-e677-452c-8a26-377abee88791@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#Snowraze%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://67aa928d-0402-48ea-869a-a72dba3df515@185.143.233.235:443?encryption=none&type=ws&security=tls&path=%2F&host=who.xwho.ir&sni=who.xwho.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#Snowraze%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-
+vless://51d293d8-21f2-4475-b6ad-96afb0fb7bd9@109.172.55.108:443?flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=google.com&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&sid=01#Snowraze%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France
