@@ -5,13 +5,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0;
 #profile-update-interval: 1
 #profile-update-interval: 1
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#Snowraze%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#Snowraze%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://67aa928d-0402-48ea-869a-a72dba3df515@185.143.233.235:443?encryption=none&type=ws&security=tls&path=%2F&host=who.xwho.ir&sni=who.xwho.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#Snowraze%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-vless://759f3bf2-ac6c-459b-905d-5d6088f422c4@185.143.233.167:2087?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat3.novationvps.ir#Snowraze%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-vless://2f194e6a-e677-452c-8a26-377abee88791@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#Snowraze%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://a7b3fd81-038d-46a1-84c7-6e12ce2e56a0@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#Snowraze%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.6:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#Snowraze%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
-vless://67aa928d-0402-48ea-869a-a72dba3df515@185.143.233.236:443?encryption=none&type=ws&security=tls&path=%2F&host=who.xwho.ir&sni=who.xwho.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#Snowraze%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://759f3bf2-ac6c-459b-905d-5d6088f422c4@185.143.233.168:2087?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat3.novationvps.ir#Snowraze%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://2f194e6a-e677-452c-8a26-377abee88791@185.143.233.44:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#Snowraze%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://a7b3fd81-038d-46a1-84c7-6e12ce2e56a0@us-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#Snowraze%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/githubmirror/clean/vless.txt
